@@ -1,7 +1,8 @@
 # LaTeX Compiler in use
 LC=pdflatex
 
-BASENAME=main # Source file name : tweak to your own liking ; in this case, you'd have write in main.tex
+# Source file name : tweak to your own liking ; in this case, you'd have write in main.tex
+BASENAME=main
 BUILDDIR=build
 
 # Default target
